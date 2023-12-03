@@ -1,0 +1,16 @@
+Installation Report
+Report Date: 10/01/2023 18:00:04
+BIOS Version: ALASKA - 1072009
+Serial Number: 23880114
+Disk Size: 931.51GB
+OS Name: Microsoft Windows 11 Pro for Workstations
+OS Version: 10.0.22621
+OS Install Date: 12/05/2022 21:19:26
+MAC Address: 54:AF:97:97:BE:31
+IP Address: 192.168.0.7
+NIC Teaming not configured on this system.
+DNS Hostname: BLACKONE
+FQDN: BlackOne
+Installers Name : me
+Jira Case Number: 007
+
