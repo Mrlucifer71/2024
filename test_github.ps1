@@ -1,1 +1,1 @@
-get-services
+Get-Service
